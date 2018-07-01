@@ -1,5 +1,5 @@
 # Ribbon to distribute load between/among instances
-load is automatically distribute
+load is automatically distributed
 
 # Eureka as the naming server.
 Microservices Auto discovery
